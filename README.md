@@ -1,5 +1,5 @@
-<h1 align="center">Hi welcone to materialdev.id Github</h1>
-<h3 align="center">Hi my name is Putra, I come from Indonesia, I am an Android developer, and a discord bot developer.</h3>
+<h1 align="center">Welcone to materialdev.id Github</h1>
+<h3 align="center">this is a materialdev.id account, we are a team based in making UI/UX design</h3>
 
 - 📝 Team : **[Azka Yasakha](https://github.com/azkayasakha), [simplecode01](https://github.com/simplecode01), [Muhammad_Hikaru](https://github.com/muhammadhikaru)**
 
